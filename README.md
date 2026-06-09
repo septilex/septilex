@@ -1,4 +1,4 @@
-# Hello World! 🚀
+[# Hello World! 🚀
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=800&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+Prajju+%F0%9F%9A%80;Full+Stack+Developer+%E2%9A%A1%E2%9C%A8;Building+AI-powered+products...;Turning+ambitious+ideas+into+reality%F0%9F%8C%8C" alt="Typing SVG" />
@@ -98,3 +98,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=septilex&color=00FFCC&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
+](https://www.linkedin.com/in/prajit-balaji-kalidindi-2b706a36a/)
