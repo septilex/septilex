@@ -1,101 +1,21 @@
-[# Hello World! 🚀
+<h1 align="center">Hi 👋, I'm Prajit Balaji K</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=septilex&label=Profile%20views&color=0e75b6&style=flat" alt="septilex" /> </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=800&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+Prajju+%F0%9F%9A%80;Full+Stack+Developer+%E2%9A%A1%E2%9C%A8;Building+AI-powered+products...;Turning+ambitious+ideas+into+reality%F0%9F%8C%8C" alt="Typing SVG" />
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=septilex" alt="septilex" /></a> </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=120&section=header&text=%E2%80%9CBuilding+products+that+feel+smooth,+intelligent,+and+alive.%E2%80%9D&fontSize=20&fontColor=ffffff&animation=twinkling" alt="Header Wave" />
-</p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
----
-
-## 🌌 About Me
-
-💻 **Full Stack Developer** passionate about building AI-powered products, modern web experiences, and immersive user interfaces.
-
-💡 I enjoy turning ambitious ideas into polished digital experiences with **clean code**, **smooth animations**, and **scalable systems**.
-
----
-
-## ⚡ Tech Stack
-
-### 🚀 Languages & Core
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<a href="https://linkedin.com/in/prajit-balaji-kalidindi-2b706a36a." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajit-balaji-kalidindi-2b706a36a." height="30" width="40" /></a>
+<a href="https://instagram.com/_prajitbalaji_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_prajitbalaji_" height="30" width="40" /></a>
 </p>
 
-### 🎨 Frontend & UI
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-### 🔥 Backend & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=septilex&show_icons=true&locale=en&layout=compact" alt="septilex" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=septilex&show_icons=true&locale=en" alt="septilex" /></p>
 
-## 🧠 Interests
-
-*   **Data Structures & Algorithms** in Java
-*   **AI Integrations** & Developer Tools
-*   **Advanced Frontend Engineering**
-*   **System Design** & Scalable Applications
-*   **Creative UI/UX** Experiences
-
----
-
-## 🔭 Currently Working On
-
-*   🚀 **AI-powered GitHub analytics** & developer platforms
-*   💎 **High-end SaaS UI** experiences
-*   ⚡ **Interactive** and performance-focused web apps
-
----
-
-## 📊 Cyberpunk Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=septilex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=FF007F&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=septilex&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=FF007F&currStreakLabel=00FFCC" alt="Streak Stats" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=septilex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF" alt="Top Languages" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=septilex&theme=juicyfresh&column=7&margin-w=15&no-bg=true&no-frame=true" alt="Trophies" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/prajit-balaji-kalidindi-2b706a36a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mranimemusic111999@gmail.com">
-    <img src="https://img.shields.io/badge/Primary_Email-FF007F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 1" />
-  </a>
-  <a href="mailto:prajitk299@gmail.com">
-    <img src="https://img.shields.io/badge/Secondary_Email-00FFCC?style=for-the-badge&logo=gmail&logoColor=black" alt="Email 2" />
-  </a>
-  <a href="https://wa.me/919535919734">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=septilex&color=00FFCC&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-](https://www.linkedin.com/in/prajit-balaji-kalidindi-2b706a36a/)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=septilex&" alt="septilex" /></p>
