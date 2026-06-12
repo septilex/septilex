@@ -242,11 +242,11 @@ AI-driven learning and mentoring platform.
 
 # Contribution Snake
 
-```text
-Replace with GitHub Action generated snake.svg
-```
+<div align="center">
 
----
+![Snake animation](https://github.com/septilex/septilex/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 # Current Focus
 
