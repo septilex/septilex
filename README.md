@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:A855F7&text=Prajit%20Balaji%20K&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://raw.githubusercontent.com/septilex/septilex/main/assets/prajit_banner.svg?v=1" width="100%" alt="Prajit Balaji K" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Product+Engineer;Full+Stack+Developer;Generative+AI+Builder;Open+Source+Enthusiast;Building+Products+That+People+Love" />
 
