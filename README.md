@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/septilex/septilex/main/assets/prajit_banner.svg?v=1" width="100%" alt="Prajit Balaji K" />
+<img src="./prajit__balaji_gold.png" width="100%" alt="Prajit Balaji K" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Product+Engineer;Full+Stack+Developer;Generative+AI+Builder;Open+Source+Enthusiast;Building+Products+That+People+Love" />
 
@@ -270,19 +270,3 @@ open_to:
   - Open Source
   - Collaborations
   - Hackathons
-```
-
----
-
-# Connect
-
-- Portfolio: https://prajith-balaji-portfolio.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/prajit-balaji-kalidindi-2b706a36a/
-- GitHub: https://github.com/septilex
-- Email: prajitk299@gmail.com
-
----
-
-> Building intelligent products where software engineering meets creativity.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,50:7C3AED,100:A855F7" />
