@@ -2,7 +2,7 @@
 
 <img src="./prajit_banner_gold_exact.svg" width="100%" alt="Prajit Balaji K" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F6C445&center=true&vCenter=true&width=900&lines=AI+Product+Engineer;Full+Stack+Developer;Generative+AI+Builder;Open+Source+Enthusiast;Building+Products+That+People+Love" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne&size=24&pause=1000&color=F6C445&center=true&vCenter=true&width=1000&lines=%F0%9F%A4%96+AI+Product+Engineer;%E2%9C%A8+Generative+AI+Builder;%F0%9F%8C%90+Open+Source+Enthusiast;%F0%9F%9B%A0%EF%B8%8F+Engineer+by+Day%2C+Builder+by+Night;%F0%9F%9B%91+404%3A+Sleep+Schedule+Not+Found;%F0%9F%94%A5+I+Love+Burning+Tokens" />
 
 </div>
 
