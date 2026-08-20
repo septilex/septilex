@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="./prajit__balaji_gold.png" width="100%" alt="Prajit Balaji K" />
+<img src="./prajit_banner_gold_exact.svg" width="100%" alt="Prajit Balaji K" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Product+Engineer;Full+Stack+Developer;Generative+AI+Builder;Open+Source+Enthusiast;Building+Products+That+People+Love" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F6C445&center=true&vCenter=true&width=900&lines=AI+Product+Engineer;Full+Stack+Developer;Generative+AI+Builder;Open+Source+Enthusiast;Building+Products+That+People+Love" />
 
 </div>
 
 <div align="center">
 
-![](https://img.shields.io/badge/B.Tech-CSE(AI)-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/CGPA-8.91-A855F7?style=for-the-badge)
-![](https://img.shields.io/badge/SRM--AP-Amaravati-6366F1?style=for-the-badge)
-![](https://img.shields.io/badge/Location-Bangalore-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/B.Tech-CSE(AI)-B7791F?style=for-the-badge)
+![](https://img.shields.io/badge/CGPA-8.91-F6C445?style=for-the-badge)
+![](https://img.shields.io/badge/SRM--AP-Amaravati-D4A017?style=for-the-badge)
+![](https://img.shields.io/badge/Location-Bangalore-A66A00?style=for-the-badge)
 
-<a href="https://prajith-balaji-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"></a>
-<a href="https://www.linkedin.com/in/prajit-balaji-kalidindi-2b706a36a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge"></a>
-<a href="mailto:prajitk299@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge"></a>
-<a href="https://github.com/septilex"><img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge"></a>
+<a href="https://prajith-balaji-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-B7791F?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/prajit-balaji-kalidindi-2b706a36a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-D4A017?style=for-the-badge"></a>
+<a href="mailto:prajitk299@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-F6C445?style=for-the-badge"></a>
+<a href="https://github.com/septilex"><img src="https://img.shields.io/badge/GitHub-Follow-A66A00?style=for-the-badge"></a>
 
-![](https://komarev.com/ghpvc/?username=septilex&style=for-the-badge&color=7C3AED)
+![](https://komarev.com/ghpvc/?username=septilex&style=for-the-badge&color=B7791F)
 
 </div>
 
@@ -206,15 +206,15 @@ AI-driven learning and mentoring platform.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=septilex&show_icons=true&theme=midnight-purple" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=septilex&show_icons=true&theme=midnight-purple&title_color=F6C445&icon_color=D4A017&text_color=E5E7EB&border_color=B7791F" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=septilex&theme=midnight-purple" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=septilex&theme=dark&ring=F6C445&fire=D4A017&currStreakLabel=F6C445&sideLabels=D4A017&border=B7791F" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=septilex&layout=compact&theme=midnight-purple" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=septilex&layout=compact&theme=midnight-purple&title_color=F6C445&text_color=E5E7EB&border_color=B7791F" />
 
 </div>
 
@@ -234,7 +234,7 @@ AI-driven learning and mentoring platform.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=septilex&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=septilex&theme=react-dark&color=F6C445&line=D4A017&point=F6C445&area=true&hide_border=true" />
 
 </div>
 
@@ -247,6 +247,8 @@ AI-driven learning and mentoring platform.
 ![Snake animation](https://github.com/septilex/septilex/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+---
 
 # Current Focus
 
