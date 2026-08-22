@@ -8,17 +8,14 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/B.Tech-CSE(AI)-B7791F?style=for-the-badge)
+![](https://img.shields.io/badge/B.Tech-CSE\(AI\)-B7791F?style=for-the-badge)
 ![](https://img.shields.io/badge/CGPA-8.91-F6C445?style=for-the-badge)
 ![](https://img.shields.io/badge/SRM--AP-Amaravati-D4A017?style=for-the-badge)
 ![](https://img.shields.io/badge/Location-Bangalore-A66A00?style=for-the-badge)
 
-<a href="https://prajith-balaji-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-B7791F?style=for-the-badge"></a>
-<a href="https://www.linkedin.com/in/prajit-balaji-kalidindi-2b706a36a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-D4A017?style=for-the-badge"></a>
-<a href="mailto:prajitk299@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-F6C445?style=for-the-badge"></a>
-<a href="https://github.com/septilex"><img src="https://img.shields.io/badge/GitHub-Follow-A66A00?style=for-the-badge"></a>
+<a href="https://prajith-balaji-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-B7791F?style=for-the-badge"></a> <a href="https://www.linkedin.com/in/prajit-balaji-kalidindi-2b706a36a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-D4A017?style=for-the-badge"></a> <a href="mailto:prajitk299@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-F6C445?style=for-the-badge"></a> <a href="https://github.com/septilex"><img src="https://img.shields.io/badge/GitHub-Follow-A66A00?style=for-the-badge"></a>
 
-![](https://komarev.com/ghpvc/?username=septilex&style=for-the-badge&color=B7791F)
+![](https://komarev.com/ghpvc/?username=septilex\&style=for-the-badge\&color=B7791F)
 
 </div>
 
@@ -26,17 +23,21 @@
 
 # About
 
-I am **Prajit Balaji K**, a Computer Science student specializing in AI, passionate about building intelligent products at the intersection of **Software Engineering, Generative AI, Full-Stack Development, and Interactive User Experiences**.
+I’m **Prajit Balaji K** — a Computer Science student who likes turning **“what if?” into “it works.”** ⚡
 
-My focus is on transforming complex ideas into polished products that solve real problems. From AI-powered developer tooling to music discovery platforms and creative coding experiences, I enjoy building systems that combine engineering depth with exceptional user experience.
+I build at the intersection of **AI, software engineering, and product design** — from intelligent developer tools and RAG systems to interactive web experiences and experimental AI products.
 
-### Open To
+I’m obsessed with taking an idea from **zero → prototype → polished product**. I enjoy figuring out the messy parts: designing the architecture, wiring up the AI, building the interface, optimizing the experience, and shipping the damn thing. 🚀
 
-- Software Engineering Internships
-- AI / ML Internships
-- Open Source Contributions
-- Research Collaborations
-- Hackathons
+Currently deep-diving into **Generative AI, AI Agents, RAG, System Design, and Full-Stack Engineering** — basically teaching machines to be useful while making sure the UI doesn't look like it was designed in 2007. 😭
+
+### 🚀 Open To
+
+* 💻 **Software Engineering Internships**
+* 🤖 **AI / ML Engineering Opportunities**
+* 🧠 **Generative AI & LLM Projects**
+* 🌐 **Open Source Collaborations**
+* 🛠️ **Hackathons & Builder Communities**
 
 ---
 
@@ -50,147 +51,165 @@ My focus is on transforming complex ideas into polished products that solve real
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css)](https://skillicons.dev)
 
-## Backend & Databases
+## Backend
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi)](https://skillicons.dev)
+
+## Databases & Infrastructure
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)](https://skillicons.dev)
+
+## AI / GenAI
+
+`LLMs` `RAG` `Prompt Engineering` `AI Agents` `AI Workflows` `LLM Applications`
 
 ## Cloud, DevOps & Tooling
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,docker,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vercel,vscode)](https://skillicons.dev)
 
 ---
 
-# AI / ML Expertise
+# AI / Engineering Capabilities
 
-| Domain | Proficiency | Details |
-|----------|----------|----------|
-| Generative AI | Advanced | LLM Applications, AI Products |
-| Prompt Engineering | Advanced | Structured Prompt Design |
-| AI Product Engineering | Advanced | End-to-End Product Development |
-| Developer Tooling | Advanced | Code Analysis Systems |
-| Data Visualization | Advanced | Interactive Analytics |
-| Recommender Systems | Intermediate | Music Discovery Systems |
-| Machine Learning | Intermediate | Applied ML Concepts |
-| Full Stack AI | Advanced | AI + Web Applications |
+| Area                      | What I Build                                                 |
+| ------------------------- | ------------------------------------------------------------ |
+| 🤖 Generative AI          | LLM-powered applications and intelligent product experiences |
+| 🧠 RAG Systems            | Retrieval pipelines, semantic search and knowledge-based AI  |
+| ⚡ AI Product Engineering  | AI features integrated into production-oriented applications |
+| 🛠️ Developer Tools       | AI-powered tools designed to improve developer productivity  |
+| 🔗 AI Agents              | Agentic workflows and multi-step AI systems                  |
+| 🌐 Full-Stack Engineering | End-to-end web applications and SaaS products                |
+| 🎵 Recommendation Systems | Personalized discovery and recommendation experiences        |
+| 🎨 Creative Technology    | Interactive visual experiences and generative applications   |
 
 ---
 
 # Featured Projects
 
-<details>
-<summary><b>Kadence</b></summary>
+### 🎵 Kadence
 
-AI-powered music discovery platform.
+**AI-powered music discovery platform built to make finding music more interesting.**
 
-| Category | Details |
-|-----------|-----------|
-| Stack | Next.js, React, Tailwind, AI |
-| Scale | Interactive Analytics |
-| Performance | Optimized Client Rendering |
-| Security | Secure API Integration |
-| Impact | Enhanced Music Discovery |
-| Repository | https://github.com/septilex/KADENCE |
+* 🎯 Personalized music discovery experience
+* ⚡ Interactive and responsive UI
+* 🎨 Rich visual interactions
+* 🔌 API-driven music discovery
+* 🧠 AI-assisted recommendation experience
 
-Live: https://kadence-musicz.vercel.app/
+**Stack:** `Next.js` `React` `Tailwind CSS` `JavaScript` `AI`
 
-</details>
+**Repository:** https://github.com/septilex/KADENCE
+**Live:** https://kadence-musicz.vercel.app/
 
-<details>
-<summary><b>DevMentor AI</b></summary>
+---
 
-AI-powered pair programmer built during FORTEX-36 Hackathon.
+### 🤖 DevMentor AI
 
-| Category | Details |
-|-----------|-----------|
-| Stack | React, Node.js, AI |
-| Scale | Multi-language Support |
-| Performance | Real-Time Analysis |
-| Security | Static Analysis Workflows |
-| Impact | Developer Productivity |
-| Repository | https://github.com/septilex/DevMentor-AI |
+**AI-powered developer assistant built during the FORTEX-36 Hackathon.**
 
-Live: https://devmentorr.vercel.app/
+* 🧑‍💻 AI-assisted development workflow
+* 🔍 Code analysis capabilities
+* 🌐 Multi-language support
+* ⚡ Real-time developer feedback
+* 🛠️ Developer productivity focused
 
-</details>
+**Stack:** `React` `Node.js` `AI`
 
-<details>
-<summary><b>Velari</b></summary>
+**Repository:** https://github.com/septilex/DevMentor-AI
+**Live:** https://devmentorr.vercel.app/
 
-Interactive generative art playground.
+---
 
-| Category | Details |
-|-----------|-----------|
-| Stack | JavaScript, Canvas |
-| Scale | Real-Time Visual Rendering |
-| Performance | Optimized Animations |
-| Impact | Creative Technology |
-| Repository | https://github.com/septilex/Velari |
+### 🎨 Velari
 
-Live: https://velari-dusky.vercel.app/
+**Interactive generative art playground where code becomes visual expression.**
 
-</details>
+* 🌀 Generative visual experiences
+* ⚡ Real-time rendering
+* 🎨 Interactive creative controls
+* 🧩 Creative coding experiments
+* 🚀 Browser-based visual generation
 
-<details>
-<summary><b>Mentora</b></summary>
+**Stack:** `JavaScript` `Canvas`
 
-AI-driven learning and mentoring platform.
+**Repository:** https://github.com/septilex/Velari
+**Live:** https://velari-dusky.vercel.app/
 
-| Category | Details |
-|-----------|-----------|
-| Stack | MERN, AI |
-| Scale | Student Productivity |
-| Impact | Learning Enhancement |
-| Repository | https://github.com/septilex/Mentora |
+---
 
-</details>
+### 🧠 Mentora
+
+**AI-driven learning and mentoring platform designed to make learning more personalized.**
+
+* 📚 AI-assisted learning
+* 🎯 Personalized learning workflows
+* 📊 Student productivity features
+* 🤖 Intelligent mentoring experiences
+
+**Stack:** `MERN` `AI`
+
+**Repository:** https://github.com/septilex/Mentora
 
 ---
 
 # Experience
 
-### Founder & AI Product Engineer
-**Independent Projects**  
-2024 - Present
+### 📊 Data Analyst Intern
 
-- Built AI-powered web applications.
-- Developed full-stack systems using MERN and Next.js.
-- Created developer productivity tools.
-- Focused on AI-enhanced user experiences.
+**Unified Mentor · Internship**
+**Jun 2026 – Jul 2026 · Remote · Greater Bengaluru Area**
 
-**Skills:** `AI` `Next.js` `React` `Node.js` `MongoDB` `TypeScript`
+* 📦 Collaborated on a logistics optimization project for **Nassau Candy Distributor**, focusing on shipping routes and lead-time predictions.
+* 📈 Analyzed operational data to recommend factory reallocations, improving delivery efficiency while maintaining profitability.
+* 🧠 Gained hands-on experience in **data analysis, machine learning, and business intelligence** tools.
+* 🎯 Contributed to decision-support systems that helped improve operational strategies for the client.
+
+**Skills:** `Python` `Data Analysis` `Machine Learning` `Business Intelligence`
+
+---
+
+### 🤖 Google Student Ambassador — Summer Intern
+
+**Google Student Ambassadors (India) · Internship**
+**May 2026 – Jul 2026 · Remote · Andhra Pradesh, India**
+
+* 🌐 Selected as a **Google Student Ambassador** to drive **Google Gemini AI awareness and adoption** across campus.
+* 🎤 Organized and promoted workshops, technical sessions, and community events focused on emerging technologies.
+* 🤖 Helped students explore **AI, Google Gemini, cloud computing, web development, and other emerging technologies**.
+* 🚀 Contributed to building an AI-focused student community and encouraging hands-on experimentation with new technologies.
+
+**Skills:** `Generative AI` `Google Gemini` `Community Building` `Technical Workshops`
+
+---
+
+# Certifications & Training
+
+### Google
+
+![](https://img.shields.io/badge/Google-AI_Essentials-4285F4?style=for-the-badge)
+![](https://img.shields.io/badge/Google-AI_Fundamentals-4285F4?style=for-the-badge)
+
+### NVIDIA
+
+![](https://img.shields.io/badge/NVIDIA-Generative_AI-76B900?style=for-the-badge)
+![](https://img.shields.io/badge/NVIDIA-Prompt_Engineering-76B900?style=for-the-badge)
+
+### JPMorgan Chase
+
+![](https://img.shields.io/badge/JPMorgan-Software_Engineering_Simulation-005EB8?style=for-the-badge)
+
+### Full-Stack Development
+
+![](https://img.shields.io/badge/MERN-Full_Stack-10B981?style=for-the-badge)
 
 ---
 
 # Achievements
 
-| Recognition | Details |
-|-------------|----------|
-| FORTEX 36 | Certificate of Appreciation |
-| Academic Excellence | 8.91 CGPA |
-| Open Source | Active Builder |
-| AI Certifications | Google & NVIDIA |
-
----
-
-# Certifications
-
-## Google
-
-![](https://img.shields.io/badge/Google-AI_Essentials-4285F4?style=for-the-badge)
-![](https://img.shields.io/badge/Google-AI_Fundamentals-4285F4?style=for-the-badge)
-
-## NVIDIA
-
-![](https://img.shields.io/badge/NVIDIA-Generative_AI-76B900?style=for-the-badge)
-![](https://img.shields.io/badge/NVIDIA-Prompt_Engineering-76B900?style=for-the-badge)
-
-## JPMorgan Chase
-
-![](https://img.shields.io/badge/JPMorgan-Kafka_&_Java_Simulation-005EB8?style=for-the-badge)
-
-## MERN Stack
-
-![](https://img.shields.io/badge/MERN-Full_Stack-10B981?style=for-the-badge)
+* 🏆 **FORTEX-36 Hackathon** — Certificate of Appreciation
+* 🎓 **Academic Performance** — 8.91 CGPA
+* 🤖 **AI Certifications** — Google & NVIDIA
+* 💻 **Open Source & Builder Projects** — Multiple shipped applications
 
 ---
 
@@ -220,16 +239,6 @@ AI-driven learning and mentoring platform.
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=septilex&theme=algolia&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
@@ -254,21 +263,37 @@ AI-driven learning and mentoring platform.
 
 ```yaml
 learning:
+  - Generative AI
   - AI Agents
   - Retrieval Augmented Generation
   - System Design
 
 building:
   - AI Developer Tools
-  - Full Stack SaaS Products
-  - Intelligent Recommendation Systems
+  - RAG Platforms
+  - Full Stack AI Products
+  - Intelligent SaaS Products
 
 exploring:
   - Multi Agent Systems
   - LLM Evaluation
+  - AI Infrastructure
+  - Production AI Systems
 
 open_to:
-  - Internships
+  - Software Engineering Internships
+  - AI / ML Engineering Opportunities
   - Open Source
   - Collaborations
   - Hackathons
+```
+
+---
+
+<div align="center">
+
+### ⚡ Build → Break → Learn → Ship → Repeat
+
+**If it can be built, I probably want to build it.**
+
+</div>
