@@ -19,19 +19,15 @@
 
 </div>
 
----
+<div align="center">
 
-# About
+<p align="center">
+<img src="./prajit_living_identity.svg" width="100%" alt="Prajit Balaji Kalidindi Living Identity with chrome PB monogram" />
+</p>
 
-I’m **Prajit Balaji K** — a Computer Science student who likes turning **“what if?” into “it works.”** ⚡
+</div>
 
-I build at the intersection of **AI, software engineering, and product design** — from intelligent developer tools and RAG systems to interactive web experiences and experimental AI products.
-
-I’m obsessed with taking an idea from **zero → prototype → polished product**. I enjoy figuring out the messy parts: designing the architecture, wiring up the AI, building the interface, optimizing the experience, and shipping the damn thing. 🚀
-
-Currently deep-diving into **Generative AI, AI Agents, RAG, System Design, and Full-Stack Engineering** — basically teaching machines to be useful while making sure the UI doesn't look like it was designed in 2007. 😭
-
-### 🚀 Open To
+<h3><font face="Syne">🚀 <big>O</big>PEN <big>T</big>O</font></h3>
 
 * 💻 **Software Engineering Internships**
 * 🤖 **AI / ML Engineering Opportunities**
@@ -41,35 +37,35 @@ Currently deep-diving into **Generative AI, AI Agents, RAG, System Design, and F
 
 ---
 
-# Tech Stack
+<h1><font face="Syne"><big>T</big>ECH <big>S</big>TACK</font></h1>
 
-## Languages
+<h2><font face="Syne"><big>L</big>ANGUAGES</font></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp)](https://skillicons.dev)
 
-## Frontend
+<h2><font face="Syne"><big>F</big>RONTEND</font></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css)](https://skillicons.dev)
 
-## Backend
+<h2><font face="Syne"><big>B</big>ACKEND</font></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi)](https://skillicons.dev)
 
-## Databases & Infrastructure
+<h2><font face="Syne"><big>D</big>ATABASES &amp; <big>I</big>NFRASTRUCTURE</font></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)](https://skillicons.dev)
 
-## AI / GenAI
+<h2><font face="Syne"><big>A</big>I / <big>G</big>ENAI</font></h2>
 
 `LLMs` `RAG` `Prompt Engineering` `AI Agents` `AI Workflows` `LLM Applications`
 
-## Cloud, DevOps & Tooling
+<h2><font face="Syne"><big>C</big>LOUD, <big>D</big>EVOPS &amp; <big>T</big>OOLING</font></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vercel,vscode)](https://skillicons.dev)
 
 ---
 
-# AI / Engineering Capabilities
+<h1><font face="Syne"><big>A</big>I / <big>E</big>NGINEERING <big>C</big>APABILITIES</font></h1>
 
 | Area                      | What I Build                                                 |
 | ------------------------- | ------------------------------------------------------------ |
@@ -84,9 +80,9 @@ Currently deep-diving into **Generative AI, AI Agents, RAG, System Design, and F
 
 ---
 
-# Featured Projects
+<h1><font face="Syne"><big>F</big>EATURED <big>P</big>ROJECTS</font></h1>
 
-### 🎵 Kadence
+<h3><font face="Syne">🎵 <big>K</big>ADENCE</font></h3>
 
 **AI-powered music discovery platform built to make finding music more interesting.**
 
@@ -103,7 +99,7 @@ Currently deep-diving into **Generative AI, AI Agents, RAG, System Design, and F
 
 ---
 
-### 🤖 DevMentor AI
+<h3><font face="Syne">🤖 <big>D</big>EVMENTOR <big>A</big>I</font></h3>
 
 **AI-powered developer assistant built during the FORTEX-36 Hackathon.**
 
@@ -120,7 +116,7 @@ Currently deep-diving into **Generative AI, AI Agents, RAG, System Design, and F
 
 ---
 
-### 🎨 Velari
+<h3><font face="Syne">🎨 <big>V</big>ELARI</font></h3>
 
 **Interactive generative art playground where code becomes visual expression.**
 
@@ -137,7 +133,7 @@ Currently deep-diving into **Generative AI, AI Agents, RAG, System Design, and F
 
 ---
 
-### 🧠 Mentora
+<h3><font face="Syne">🧠 <big>M</big>ENTORA</font></h3>
 
 **AI-driven learning and mentoring platform designed to make learning more personalized.**
 
@@ -152,9 +148,9 @@ Currently deep-diving into **Generative AI, AI Agents, RAG, System Design, and F
 
 ---
 
-# Experience
+<h1><font face="Syne"><big>E</big>XPERIENCE</font></h1>
 
-### 📊 Data Analyst Intern
+<h3><font face="Syne">📊 <big>D</big>ATA <big>A</big>NALYST <big>I</big>NTERN</font></h3>
 
 **Unified Mentor · Internship**
 **Jun 2026 – Jul 2026 · Remote · Greater Bengaluru Area**
@@ -168,7 +164,7 @@ Currently deep-diving into **Generative AI, AI Agents, RAG, System Design, and F
 
 ---
 
-### 🤖 Google Student Ambassador — Summer Intern
+<h3><font face="Syne">🤖 <big>G</big>OOGLE <big>S</big>TUDENT <big>A</big>MBASSADOR — <big>S</big>UMMER <big>I</big>NTERN</font></h3>
 
 **Google Student Ambassadors (India) · Internship**
 **May 2026 – Jul 2026 · Remote · Andhra Pradesh, India**
@@ -182,29 +178,29 @@ Currently deep-diving into **Generative AI, AI Agents, RAG, System Design, and F
 
 ---
 
-# Certifications & Training
+<h1><font face="Syne"><big>C</big>ERTIFICATIONS &amp; <big>T</big>RAINING</font></h1>
 
-### Google
+<h3><font face="Syne"><big>G</big>OOGLE</font></h3>
 
 ![](https://img.shields.io/badge/Google-AI_Essentials-4285F4?style=for-the-badge)
 ![](https://img.shields.io/badge/Google-AI_Fundamentals-4285F4?style=for-the-badge)
 
-### NVIDIA
+<h3><font face="Syne"><big>N</big>VIDIA</font></h3>
 
 ![](https://img.shields.io/badge/NVIDIA-Generative_AI-76B900?style=for-the-badge)
 ![](https://img.shields.io/badge/NVIDIA-Prompt_Engineering-76B900?style=for-the-badge)
 
-### JPMorgan Chase
+<h3><font face="Syne"><big>J</big>PMORGAN <big>C</big>HASE</font></h3>
 
 ![](https://img.shields.io/badge/JPMorgan-Software_Engineering_Simulation-005EB8?style=for-the-badge)
 
-### Full-Stack Development
+<h3><font face="Syne"><big>F</big>ULL-STACK <big>D</big>EVELOPMENT</font></h3>
 
 ![](https://img.shields.io/badge/MERN-Full_Stack-10B981?style=for-the-badge)
 
 ---
 
-# Achievements
+<h1><font face="Syne"><big>A</big>CHIEVEMENTS</font></h1>
 
 * 🏆 **FORTEX-36 Hackathon** — Certificate of Appreciation
 * 🎓 **Academic Performance** — 8.91 CGPA
@@ -213,7 +209,7 @@ Currently deep-diving into **Generative AI, AI Agents, RAG, System Design, and F
 
 ---
 
-# Coding Profiles
+<h1><font face="Syne"><big>C</big>ODING <big>P</big>ROFILES</font></h1>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-septilex29-FFA116?style=for-the-badge)](https://leetcode.com/u/septilex29/)
 
@@ -221,45 +217,43 @@ Currently deep-diving into **Generative AI, AI Agents, RAG, System Design, and F
 
 ---
 
-# GitHub Analytics
+<h1><font face="Syne"><big>G</big>ITHUB <big>A</big>NALYTICS</font></h1>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=septilex&show_icons=true&theme=midnight-purple&title_color=F6C445&icon_color=D4A017&text_color=E5E7EB&border_color=B7791F" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=septilex&theme=autumn&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257694246%3Fu%3Df17c103eb3fd5cfdc78f888b86c986de652ab466%26v%3D4&v=showcase-stats-4&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=septilex&theme=autumn&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257694246%3Fu%3Df17c103eb3fd5cfdc78f888b86c986de652ab466%26v%3D4&v=showcase-stats-4&mode=dark" width="100%" alt="Prajit Balaji Kalidindi animated GitHub statistics" />
+</picture>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=septilex&theme=dark&ring=F6C445&fire=D4A017&currStreakLabel=F6C445&sideLabels=D4A017&border=B7791F" />
+<br />
 
-</div>
+<img src="https://gh-stats-xcards.fly.dev/stats/septilex?card=streak&theme=dark&show_avatar=false&bg_color=151515&text_color=FFFFFF&icon_color=F6C445&border_color=F6C445&accent_color=F6C445" width="100%" alt="Prajit Balaji animated GitHub contribution streak" />
 
-<div align="center">
+<br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=septilex&layout=compact&theme=midnight-purple&title_color=F6C445&text_color=E5E7EB&border_color=B7791F" />
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=septilex&theme=react-dark&color=F6C445&line=D4A017&point=F6C445&area=true&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=septilex&theme=autumn&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257694246%3Fu%3Df17c103eb3fd5cfdc78f888b86c986de652ab466%26v%3D4&v=showcase-stack-7&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=septilex&theme=autumn&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257694246%3Fu%3Df17c103eb3fd5cfdc78f888b86c986de652ab466%26v%3D4&v=showcase-stack-7&mode=dark" width="100%" alt="Prajit Balaji animated language stack" />
+</picture>
 
 </div>
 
 ---
 
-# Contribution Snake
+<h1><font face="Syne"><big>C</big>ONTRIBUTION <big>A</big>CTIVITY</font></h1>
 
-<div align="center">
-
-![Snake animation](https://github.com/septilex/septilex/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=septilex&theme=autumn&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257694246%3Fu%3Df17c103eb3fd5cfdc78f888b86c986de652ab466%26v%3D4&v=showcase-heatmap-5&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=septilex&theme=autumn&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257694246%3Fu%3Df17c103eb3fd5cfdc78f888b86c986de652ab466%26v%3D4&v=showcase-heatmap-5&mode=dark" width="100%" alt="Prajit Balaji Kalidindi yellow and orange contribution activity" />
+</picture>
+</p>
 
 ---
+---
 
-# Current Focus
+<h1><font face="Syne"><big>C</big>URRENT <big>F</big>OCUS</font></h1>
 
 ```yaml
 learning:
@@ -292,8 +286,24 @@ open_to:
 
 <div align="center">
 
-### ⚡ Build → Break → Learn → Ship → Repeat
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=septilex&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257694246%3Fu%3Df17c103eb3fd5cfdc78f888b86c986de652ab466%26v%3D4&v=showcase-wordmark-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=septilex&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257694246%3Fu%3Df17c103eb3fd5cfdc78f888b86c986de652ab466%26v%3D4&v=showcase-wordmark-2&mode=dark" width="100%" alt="Prajit ASCII wordmark" />
+</picture>
+
+<div align="center">
+
+<h3><font face="Syne">⚡ <big>B</big>UILD → <big>B</big>REAK → <big>L</big>EARN → <big>S</big>HIP → <big>R</big>EPEAT</font></h3>
 
 **If it can be built, I probably want to build it.**
+
+</div>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=septilex&theme=autumn&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257694246%3Fu%3Df17c103eb3fd5cfdc78f888b86c986de652ab466%26v%3D4&v=showcase-social-6&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=septilex&theme=autumn&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F257694246%3Fu%3Df17c103eb3fd5cfdc78f888b86c986de652ab466%26v%3D4&v=showcase-social-6&mode=dark" width="100%" alt="Prajit GitHub social visual" />
+</picture>
 
 </div>
