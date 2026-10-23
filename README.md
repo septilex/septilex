@@ -126,87 +126,118 @@
 
 <h1><font face="Syne"><big>F</big>EATURED <big>P</big>ROJECTS</font></h1>
 
-<h3><font face="Syne">❤️ <big>C</big>ARDIOVANTA</font></h3>
+<table width="100%">
+  <tr>
+    <td width="55%" valign="middle">
+      <h3><font face="Syne">❤️ <big>C</big>ARDIOVANTA</font></h3>
+      <p><strong>AI-powered cardiovascular risk assessment platform designed to provide intelligent health insights.</strong></p>
+      <ul>
+        <li>🫀 Cardiovascular risk prediction</li>
+        <li>🤖 Machine learning powered assessment</li>
+        <li>⚡ Fast and responsive interface</li>
+        <li>🧠 Intelligent risk analysis</li>
+        <li>🌐 Full-stack AI application</li>
+      </ul>
+      <p><strong>Stack:</strong> <code>Next.js</code> <code>FastAPI</code> <code>Python</code> <code>scikit-learn</code> <code>Docker</code></p>
+      <p><strong>Repository:</strong> <a href="https://github.com/septilex/CardioVanta">CardioVanta ↗</a><br/><strong>Live:</strong> <a href="https://cardio-vanta-prod.vercel.app/">Open CardioVanta ↗</a></p>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <a href="https://cardio-vanta-prod.vercel.app/"><img src="./assets/cardiovanta%20github%20homepage.png" width="100%" alt="CardioVanta homepage preview" /></a>
+    </td>
+  </tr>
+</table>
 
-**AI-powered cardiovascular risk assessment platform designed to provide intelligent health insights.**
+<hr/>
 
-* 🫀 Cardiovascular risk prediction
-* 🤖 Machine learning powered assessment
-* ⚡ Fast and responsive interface
-* 🧠 Intelligent risk analysis
-* 🌐 Full-stack AI application
+<table width="100%">
+  <tr>
+    <td width="55%" valign="middle">
+      <h3><font face="Syne">🎵 <big>K</big>ADENCE</font></h3>
+      <p><strong>AI-powered music discovery platform built to make finding music more interesting.</strong></p>
+      <ul>
+        <li>🎯 Personalized music discovery experience</li>
+        <li>⚡ Interactive and responsive UI</li>
+        <li>🎨 Rich visual interactions</li>
+        <li>🔌 API-driven music discovery</li>
+        <li>🧠 AI-assisted recommendation experience</li>
+      </ul>
+      <p><strong>Stack:</strong> <code>Next.js</code> <code>React</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>AI</code></p>
+      <p><strong>Repository:</strong> <a href="https://github.com/septilex/KADENCE">KADENCE ↗</a><br/><strong>Live:</strong> <a href="https://kadence-musicz.vercel.app/">Open KADENCE ↗</a></p>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <a href="https://kadence-musicz.vercel.app/"><img src="./assets/kadence%20github%20homepage.png" width="100%" alt="KADENCE homepage preview" /></a>
+    </td>
+  </tr>
+</table>
 
-**Stack:** `Next.js` `FastAPI` `Python` `scikit-learn` `Docker`
+<hr/>
 
-**Repository:** https://github.com/septilex/CardioVanta
-**Live:** https://cardio-vanta-prod.vercel.app/
+<table width="100%">
+  <tr>
+    <td width="55%" valign="middle">
+      <h3><font face="Syne">🎨 <big>V</big>ELARI</font></h3>
+      <p><strong>Interactive generative art playground where code becomes visual expression.</strong></p>
+      <ul>
+        <li>🌀 Generative visual experiences</li>
+        <li>⚡ Real-time rendering</li>
+        <li>🎨 Interactive creative controls</li>
+        <li>🧩 Creative coding experiments</li>
+        <li>🚀 Browser-based visual generation</li>
+      </ul>
+      <p><strong>Stack:</strong> <code>JavaScript</code> <code>Canvas</code></p>
+      <p><strong>Repository:</strong> <a href="https://github.com/septilex/Velari">Velari ↗</a><br/><strong>Live:</strong> <a href="https://velari-dusky.vercel.app/">Open Velari ↗</a></p>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <a href="https://velari-dusky.vercel.app/"><img src="./assets/velari%20github%20homepage.png" width="100%" alt="Velari homepage preview" /></a>
+    </td>
+  </tr>
+</table>
 
----
+<hr/>
 
-<h3><font face="Syne">🎵 <big>K</big>ADENCE</font></h3>
+<table width="100%">
+  <tr>
+    <td width="55%" valign="middle">
+      <h3><font face="Syne">🎮 <big>S</big>KETCHDUEL</font></h3>
+      <p><strong>Browser-based arcade drawing and AI guessing game built around fast-paced multiplayer-style challenges.</strong></p>
+      <ul>
+        <li>🎨 Canvas-based drawing gameplay</li>
+        <li>🤖 AI-powered guessing with Gemini</li>
+        <li>🏆 Five-round match system</li>
+        <li>🎯 Practice and party modes</li>
+        <li>📊 Leaderboards and replay features</li>
+      </ul>
+      <p><strong>Stack:</strong> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Gemini API</code> <code>Web Audio API</code> <code>Speech API</code></p>
+      <p><strong>Repository:</strong> <a href="https://github.com/septilex/SketchDuel">SketchDuel ↗</a></p>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <a href="https://github.com/septilex/SketchDuel"><img src="./assets/sketchduel%20github%20homepage.png" width="100%" alt="SketchDuel homepage preview" /></a>
+    </td>
+  </tr>
+</table>
 
-**AI-powered music discovery platform built to make finding music more interesting.**
+<hr/>
 
-* 🎯 Personalized music discovery experience
-* ⚡ Interactive and responsive UI
-* 🎨 Rich visual interactions
-* 🔌 API-driven music discovery
-* 🧠 AI-assisted recommendation experience
-
-**Stack:** `Next.js` `React` `Tailwind CSS` `JavaScript` `AI`
-
-**Repository:** https://github.com/septilex/KADENCE
-**Live:** https://kadence-musicz.vercel.app/
-
----
-
-<h3><font face="Syne">🎨 <big>V</big>ELARI</font></h3>
-
-**Interactive generative art playground where code becomes visual expression.**
-
-* 🌀 Generative visual experiences
-* ⚡ Real-time rendering
-* 🎨 Interactive creative controls
-* 🧩 Creative coding experiments
-* 🚀 Browser-based visual generation
-
-**Stack:** `JavaScript` `Canvas`
-
-**Repository:** https://github.com/septilex/Velari
-**Live:** https://velari-dusky.vercel.app/
-
----
-
-<h3><font face="Syne">🎮 <big>S</big>KETCHDUEL</font></h3>
-
-**Browser-based arcade drawing and AI guessing game built around fast-paced multiplayer-style challenges.**
-
-* 🎨 Canvas-based drawing gameplay
-* 🤖 AI-powered guessing with Gemini
-* 🏆 Five-round match system
-* 🎯 Practice and party modes
-* 📊 Leaderboards and replay features
-
-**Stack:** `HTML` `CSS` `JavaScript` `Gemini API` `Web Audio API` `Speech API`
-
-**Repository:** https://github.com/septilex/SketchDuel
-
----
-
-<h3><font face="Syne">🤖 <big>D</big>EVMENTOR <big>A</big>I</font></h3>
-
-**AI-powered developer assistant built during the FORTEX-36 Hackathon.**
-
-* 🧑‍💻 AI-assisted development workflow
-* 🔍 Code analysis capabilities
-* 🌐 Multi-language support
-* ⚡ Real-time developer feedback
-* 🛠️ Developer productivity focused
-
-**Stack:** `React` `Node.js` `AI`
-
-**Repository:** https://github.com/septilex/DevMentor-AI
-**Live:** https://devmentorr.vercel.app/
+<table width="100%">
+  <tr>
+    <td width="55%" valign="middle">
+      <h3><font face="Syne">🤖 <big>D</big>EVMENTOR <big>A</big>I</font></h3>
+      <p><strong>AI-powered developer assistant built during the FORTEX-36 Hackathon.</strong></p>
+      <ul>
+        <li>🧑‍💻 AI-assisted development workflow</li>
+        <li>🔍 Code analysis capabilities</li>
+        <li>🌐 Multi-language support</li>
+        <li>⚡ Real-time developer feedback</li>
+        <li>🛠️ Developer productivity focused</li>
+      </ul>
+      <p><strong>Stack:</strong> <code>React</code> <code>Node.js</code> <code>AI</code></p>
+      <p><strong>Repository:</strong> <a href="https://github.com/septilex/DevMentor-AI">DevMentor AI ↗</a><br/><strong>Live:</strong> <a href="https://devmentorr.vercel.app/">Open DevMentor AI ↗</a></p>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <a href="https://devmentorr.vercel.app/"><img src="./assets/devmentor%20github%20homepage.png" width="100%" alt="DevMentor AI homepage preview" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
