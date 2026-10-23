@@ -139,6 +139,7 @@
 **Stack:** `Next.js` `FastAPI` `Python` `scikit-learn` `Docker`
 
 **Repository:** https://github.com/septilex/CardioVanta
+**Live:** https://cardio-vanta-prod.vercel.app/
 
 ---
 
