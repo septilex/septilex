@@ -124,29 +124,27 @@
 
 ---
 
-## 🏗️ Featured Projects
+<h1><font face="Syne"><big>F</big>EATURED <big>P</big>ROJECTS</font></h1>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<h3><font face="Syne">🎵 <big>K</big>ADENCE</font></h3>
 
-### 🎵 KADENCE
 **AI-powered music discovery platform built to make finding music more interesting.**
 
 * 🎯 Personalized music discovery experience
 * ⚡ Interactive and responsive UI
 * 🎨 Rich visual interactions
 * 🔌 API-driven music discovery
-* 🧠 AI-assisted recommendations
+* 🧠 AI-assisted recommendation experience
 
-`Next.js` `React` `Tailwind CSS` `JavaScript` `AI`
+**Stack:** `Next.js` `React` `Tailwind CSS` `JavaScript` `AI`
 
-[![Repo](https://img.shields.io/badge/Repository-KADENCE-B7791F?style=flat-square&logo=github)](https://github.com/septilex/KADENCE) [![Live](https://img.shields.io/badge/Live-Demo-F6C445?style=flat-square&logo=vercel&logoColor=black)](https://kadence-musicz.vercel.app/)
+**Repository:** https://github.com/septilex/KADENCE
+**Live:** https://kadence-musicz.vercel.app/
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🤖 DEVMENTOR AI
+<h3><font face="Syne">🤖 <big>D</big>EVMENTOR <big>A</big>I</font></h3>
+
 **AI-powered developer assistant built during the FORTEX-36 Hackathon.**
 
 * 🧑‍💻 AI-assisted development workflow
@@ -155,16 +153,15 @@
 * ⚡ Real-time developer feedback
 * 🛠️ Developer productivity focused
 
-`React` `Node.js` `AI`
+**Stack:** `React` `Node.js` `AI`
 
-[![Repo](https://img.shields.io/badge/Repository-DevMentor_AI-B7791F?style=flat-square&logo=github)](https://github.com/septilex/DevMentor-AI) [![Live](https://img.shields.io/badge/Live-Demo-F6C445?style=flat-square&logo=vercel&logoColor=black)](https://devmentorr.vercel.app/)
+**Repository:** https://github.com/septilex/DevMentor-AI
+**Live:** https://devmentorr.vercel.app/
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🎨 VELARI
+<h3><font face="Syne">🎨 <big>V</big>ELARI</font></h3>
+
 **Interactive generative art playground where code becomes visual expression.**
 
 * 🌀 Generative visual experiences
@@ -173,14 +170,15 @@
 * 🧩 Creative coding experiments
 * 🚀 Browser-based visual generation
 
-`JavaScript` `Canvas`
+**Stack:** `JavaScript` `Canvas`
 
-[![Repo](https://img.shields.io/badge/Repository-Velari-B7791F?style=flat-square&logo=github)](https://github.com/septilex/Velari) [![Live](https://img.shields.io/badge/Live-Demo-F6C445?style=flat-square&logo=vercel&logoColor=black)](https://velari-dusky.vercel.app/)
+**Repository:** https://github.com/septilex/Velari
+**Live:** https://velari-dusky.vercel.app/
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🧠 MENTORA
+<h3><font face="Syne">🧠 <big>M</big>ENTORA</font></h3>
+
 **AI-driven learning and mentoring platform designed to make learning more personalized.**
 
 * 📚 AI-assisted learning
@@ -188,13 +186,9 @@
 * 📊 Student productivity features
 * 🤖 Intelligent mentoring experiences
 
-`MERN` `AI`
+**Stack:** `MERN` `AI`
 
-[![Repo](https://img.shields.io/badge/Repository-Mentora-B7791F?style=flat-square&logo=github)](https://github.com/septilex/Mentora)
-
-</td>
-</tr>
-</table>
+**Repository:** https://github.com/septilex/Mentora
 
 ---
 
