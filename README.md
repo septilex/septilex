@@ -126,6 +126,22 @@
 
 <h1><font face="Syne"><big>F</big>EATURED <big>P</big>ROJECTS</font></h1>
 
+<h3><font face="Syne">❤️ <big>C</big>ARDIOVANTA</font></h3>
+
+**AI-powered cardiovascular risk assessment platform designed to provide intelligent health insights.**
+
+* 🫀 Cardiovascular risk prediction
+* 🤖 Machine learning powered assessment
+* ⚡ Fast and responsive interface
+* 🧠 Intelligent risk analysis
+* 🌐 Full-stack AI application
+
+**Stack:** `Next.js` `FastAPI` `Python` `scikit-learn` `Docker`
+
+**Repository:** https://github.com/septilex/CardioVanta
+
+---
+
 <h3><font face="Syne">🎵 <big>K</big>ADENCE</font></h3>
 
 **AI-powered music discovery platform built to make finding music more interesting.**
@@ -140,23 +156,6 @@
 
 **Repository:** https://github.com/septilex/KADENCE
 **Live:** https://kadence-musicz.vercel.app/
-
----
-
-<h3><font face="Syne">🤖 <big>D</big>EVMENTOR <big>A</big>I</font></h3>
-
-**AI-powered developer assistant built during the FORTEX-36 Hackathon.**
-
-* 🧑‍💻 AI-assisted development workflow
-* 🔍 Code analysis capabilities
-* 🌐 Multi-language support
-* ⚡ Real-time developer feedback
-* 🛠️ Developer productivity focused
-
-**Stack:** `React` `Node.js` `AI`
-
-**Repository:** https://github.com/septilex/DevMentor-AI
-**Live:** https://devmentorr.vercel.app/
 
 ---
 
@@ -177,18 +176,36 @@
 
 ---
 
-<h3><font face="Syne">🧠 <big>M</big>ENTORA</font></h3>
+<h3><font face="Syne">🎮 <big>S</big>KETCHDUEL</font></h3>
 
-**AI-driven learning and mentoring platform designed to make learning more personalized.**
+**Browser-based arcade drawing and AI guessing game built around fast-paced multiplayer-style challenges.**
 
-* 📚 AI-assisted learning
-* 🎯 Personalized learning workflows
-* 📊 Student productivity features
-* 🤖 Intelligent mentoring experiences
+* 🎨 Canvas-based drawing gameplay
+* 🤖 AI-powered guessing with Gemini
+* 🏆 Five-round match system
+* 🎯 Practice and party modes
+* 📊 Leaderboards and replay features
 
-**Stack:** `MERN` `AI`
+**Stack:** `HTML` `CSS` `JavaScript` `Gemini API` `Web Audio API` `Speech API`
 
-**Repository:** https://github.com/septilex/Mentora
+**Repository:** https://github.com/septilex/SketchDuel
+
+---
+
+<h3><font face="Syne">🤖 <big>D</big>EVMENTOR <big>A</big>I</font></h3>
+
+**AI-powered developer assistant built during the FORTEX-36 Hackathon.**
+
+* 🧑‍💻 AI-assisted development workflow
+* 🔍 Code analysis capabilities
+* 🌐 Multi-language support
+* ⚡ Real-time developer feedback
+* 🛠️ Developer productivity focused
+
+**Stack:** `React` `Node.js` `AI`
+
+**Repository:** https://github.com/septilex/DevMentor-AI
+**Live:** https://devmentorr.vercel.app/
 
 ---
 
