@@ -16,17 +16,6 @@
 ![](https://komarev.com/ghpvc/?username=septilex\&style=for-the-badge\&color=B7791F)
 
 <br />
-
-<img src="./prajit_living_identity.svg" width="100%" alt="Prajit Balaji Kalidindi Living Identity with chrome PB monogram" />
-
-<br />
-
-<sub>
-
-[**About**](#-about-me) · [**Open To**](#-open-to) · [**Tech Stack**](#-tech-stack) · [**Capabilities**](#-ai--engineering-capabilities) · [**Projects**](#-featured-projects) · [**Experience**](#-experience) · [**Certifications**](#-certifications--training) · [**Stats**](#-github-analytics) · [**Focus**](#-current-focus)
-
-</sub>
-
 </div>
 
 ---
@@ -243,27 +232,45 @@
 
 ## 💼 Experience
 
-### 📊 Data Analyst Intern · Unified Mentor
-`Jun 2026 – Jul 2026` · Remote · Greater Bengaluru Area
-
-* 📦 Collaborated on a logistics optimization project for **Nassau Candy Distributor**, focusing on shipping routes and lead-time predictions.
-* 📈 Analyzed operational data to recommend factory reallocations, improving delivery efficiency while maintaining profitability.
-* 🧠 Gained hands-on experience in **data analysis, machine learning, and business intelligence** tools.
-* 🎯 Contributed to decision-support systems that helped improve operational strategies for the client.
-
-**Skills:** `Python` `Data Analysis` `Machine Learning` `Business Intelligence`
+<table width="100%">
+  <tr>
+    <td width="65%" valign="middle">
+      <h3>📊 Data Analyst Intern · Unified Mentor</h3>
+      <p><code>Jun 2026 – Jul 2026</code> · Remote · Greater Bengaluru Area</p>
+      <ul>
+        <li>📦 Collaborated on a logistics optimization project for <strong>Nassau Candy Distributor</strong>, focusing on shipping routes and lead-time predictions.</li>
+        <li>📈 Analyzed operational data to recommend factory reallocations, improving delivery efficiency while maintaining profitability.</li>
+        <li>🧠 Gained hands-on experience in <strong>data analysis, machine learning, and business intelligence</strong> tools.</li>
+        <li>🎯 Contributed to decision-support systems that helped improve operational strategies for the client.</li>
+      </ul>
+      <p><strong>Skills:</strong> <code>Python</code> <code>Data Analysis</code> <code>Machine Learning</code> <code>Business Intelligence</code></p>
+    </td>
+    <td width="35%" valign="middle" align="center">
+      <img src="./assets/um%20github%20homepage.png" width="100%" alt="Unified Mentor logo" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
-### 🤖 Google Student Ambassador, Summer Intern · Google Student Ambassadors (India)
-`May 2026 – Jul 2026` · Remote · Andhra Pradesh, India
-
-* 🌐 Selected as a **Google Student Ambassador** to drive **Google Gemini AI awareness and adoption** across campus.
-* 🎤 Organized and promoted workshops, technical sessions, and community events focused on emerging technologies.
-* 🤖 Helped students explore **AI, Google Gemini, cloud computing, web development, and other emerging technologies**.
-* 🚀 Contributed to building an AI-focused student community and encouraging hands-on experimentation with new technologies.
-
-**Skills:** `Generative AI` `Google Gemini` `Community Building` `Technical Workshops`
+<table width="100%">
+  <tr>
+    <td width="65%" valign="middle">
+      <h3>🤖 Google Student Ambassador, Summer Intern · Google Student Ambassadors (India)</h3>
+      <p><code>May 2026 – Jul 2026</code> · Remote · Andhra Pradesh, India</p>
+      <ul>
+        <li>🌐 Selected as a <strong>Google Student Ambassador</strong> to drive <strong>Google Gemini AI awareness and adoption</strong> across campus.</li>
+        <li>🎤 Organized and promoted workshops, technical sessions, and community events focused on emerging technologies.</li>
+        <li>🤖 Helped students explore <strong>AI, Google Gemini, cloud computing, web development, and other emerging technologies</strong>.</li>
+        <li>🚀 Contributed to building an AI-focused student community and encouraging hands-on experimentation with new technologies.</li>
+      </ul>
+      <p><strong>Skills:</strong> <code>Generative AI</code> <code>Google Gemini</code> <code>Community Building</code> <code>Technical Workshops</code></p>
+    </td>
+    <td width="35%" valign="middle" align="center">
+      <img src="./assets/gsa%20github%20homepage.png" width="100%" alt="Google Student Ambassador branding" />
+    </td>
+  </tr>
+</table>
 
 ---
 
